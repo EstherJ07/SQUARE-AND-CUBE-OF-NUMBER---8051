@@ -61,7 +61,6 @@ MOV P2, A
 END
 ```
 
-
 ## OUTPUT
 <img width="1387" height="674" alt="image" src="https://github.com/user-attachments/assets/d8e2c51f-9a0e-4c92-ae05-5fa33310743b" />
 
